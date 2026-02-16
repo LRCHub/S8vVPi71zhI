@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "GOOD BAD UGLY",
+  "base_artist": "GIVĒON",
+  "createdAt": "2026-02-16T20:11:01.233006Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Good, Bad, Ugly",
+      "artist": "Red Velvet",
+      "has_synced": true,
+      "path": "select/01_Good,_Bad,_Ugly_Red_Velvet.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Good Bad Ugly",
+      "artist": "Lecrae",
+      "has_synced": true,
+      "path": "select/02_Good_Bad_Ugly_Lecrae.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Good, Bad, Ugly",
+      "artist": "Ani DiFranco",
+      "has_synced": false,
+      "path": "select/03_Good,_Bad,_Ugly_Ani_DiFranco.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Good, Bad, Ugly",
+      "artist": "Red Velvet (레드벨벳)",
+      "has_synced": true,
+      "path": "select/04_Good,_Bad,_Ugly_Red_Velvet_(레드벨벳).lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Good, Bad & Ugly",
+      "artist": "Runaway June",
+      "has_synced": true,
+      "path": "select/05_Good,_Bad_&_Ugly_Runaway_June.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Good Bad Ugly",
+      "artist": "Lecrae",
+      "has_synced": true,
+      "path": "select/06_Good_Bad_Ugly_Lecrae.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Good Bad Ugly",
+      "artist": "Red Velvet",
+      "has_synced": true,
+      "path": "select/07_Good_Bad_Ugly_Red_Velvet.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Og Sambavam (From \"Good Bad Ugly\")",
+      "artist": "G.V. Prakash Kumar, Adhik Ravichandran, Vishnu Edavan",
+      "has_synced": true,
+      "path": "select/08_Og_Sambavam_(From__Good_Bad_Ugly_)_G.V._Prakash_Kumar,_Adhik_Ravichandran,_Vishnu_Edavan.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Og Sambavam (From \"Good Bad Ugly\")",
+      "artist": "G. V. Prakash",
+      "has_synced": true,
+      "path": "select/09_Og_Sambavam_(From__Good_Bad_Ugly_)_G._V._Prakash.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "God Bless U (From \"Good Bad Ugly\")",
+      "artist": "G.V. Prakash Kumar, Anirudh Ravichander, Paal Dabba, Rokesh",
+      "has_synced": true,
+      "path": "select/10_God_Bless_U_(From__Good_Bad_Ugly_)_G.V._Prakash_Kumar,_Anirudh_Ravichander,_Paal_Dabba,_Rokesh.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "God Bless U (From \"Good Bad Ugly\")",
+      "artist": "Anirudh Ravichander",
+      "has_synced": true,
+      "path": "select/11_God_Bless_U_(From__Good_Bad_Ugly_)_Anirudh_Ravichander.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Good Bad & Ugly",
+      "artist": "JaeyBxrd",
+      "has_synced": false,
+      "path": "select/12_Good_Bad_&_Ugly_JaeyBxrd.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Ranagalam (From \"Good Bad Ugly\")",
+      "artist": "Smith Asher",
+      "has_synced": true,
+      "path": "select/13_Ranagalam_(From__Good_Bad_Ugly_)_Smith_Asher.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "GOOD BAD UGLY",
+      "artist": "GIVĒON",
+      "has_synced": true,
+      "path": "select/14_GOOD_BAD_UGLY_GIVĒON.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Og Sambavam (From \"Good Bad Ugly\")",
+      "artist": "G.V. Prakash Kumar",
+      "has_synced": false,
+      "path": "select/15_Og_Sambavam_(From__Good_Bad_Ugly_)_G.V._Prakash_Kumar.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Good Bad & Ugly (Paused)",
+      "artist": "JaeyBxrd",
+      "has_synced": true,
+      "path": "select/16_Good_Bad_&_Ugly_(Paused)_JaeyBxrd.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "GOOD BAD UGLY",
+      "artist": "GIVĒON",
+      "has_synced": false,
+      "path": "select/pl_01_GOOD_BAD_UGLY_GIVĒON.txt"
+    }
+  ]
+}
